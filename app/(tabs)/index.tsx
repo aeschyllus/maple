@@ -1,5 +1,5 @@
-import Button from "@/components/Button";
-import { Typography } from "@/components/navigation/Typography";
+import Button from "@/components/_common/Button";
+import { Typography } from "@/components/_common/Typography";
 import { colors } from "@/styles/colors";
 import { safeAreaView } from "@/styles/safeAreaView";
 import { StyleSheet, View } from "react-native";

@@ -1,5 +1,5 @@
 import { Pressable, PressableProps, StyleSheet } from "react-native";
-import { Typography } from "./navigation/Typography";
+import { Typography } from "./Typography";
 import { colors } from "@/styles/colors";
 
 type ButtonProps = PressableProps & {
