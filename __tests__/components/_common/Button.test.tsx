@@ -1,5 +1,5 @@
+import Button from "@/components/_common/Button";
 import { fireEvent, render } from "@testing-library/react-native";
-import Button from "../Button";
 
 it("renders with the correct text", () => {
   const { getByText } = render(
